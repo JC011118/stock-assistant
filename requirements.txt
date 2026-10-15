@@ -1,0 +1,8 @@
+requests
+feedparser
+pymongo
+beautifulsoup4
+python-dotenv
+# transformers 5 dropped the summarization pipeline
+transformers<5
+torch
